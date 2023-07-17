@@ -43,7 +43,7 @@ The project aims to develop improved algorithms that are able to separate indivi
 
     Based on our experience with last year's course, we redesigned the curriculum to allow for more time for independent research.  We were able to utilize compute platforms such as Cyverse and KBase to prevent issues with installation and computational limits of students' computers.  Students were able to execute pre-built Jupyter notebooks that contained code examples and explanations to run metagenomics pipelines and generate figures.  Enrollment was low this year (5 students) due to its classification as a temporary "topics" class.  For next year this class has been approved to carry the Biological Sciences attribute and the Liberal Arts and Sciences credit, both of which allow this course to count towards students' degree programs which should lead to higher attendance.  We presented our CURE at the Tiny Earth Symposium and hope to release teaching materials for other instructores in the coming year.  
     
-    Profile on our course: [External Title][https://pharmacy.wisc.edu/exploring-a-tiny-new-world/]
+    Profile on our course: (https://pharmacy.wisc.edu/exploring-a-tiny-new-world/)
 
 
 
