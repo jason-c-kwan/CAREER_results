@@ -45,5 +45,17 @@ The project aims to develop improved algorithms that are able to separate indivi
     
     Profile on our course: (<a href="https://pharmacy.wisc.edu/exploring-a-tiny-new-world/"> Link to Tiny Earth Genomics News Article </a>)
 
+### **Software developed**
 
+![Autometa logo](./assets/autometa_logo.png)
+
+Autometa [Github repository](https://github.com/KwanLab/Autometa)
+
+Autometa [Documenation](https://autometa.readthedocs.io/en/latest/)
+
+<div style="display: flex; margin-top: 50px; margin-bottom: 25px;">
+    <img src="./assets/Automappa_logo.png" alt="Automappa logo" style="width: 30%;">
+</div>
+
+Automappa [Github respository](https://github.com/WiscEvan/Automappa)
 
