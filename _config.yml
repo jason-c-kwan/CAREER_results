@@ -20,7 +20,7 @@
 
 title: Kwan Lab's NSF Grant Summary
 email: jason.kwan@wisc.edu
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kwan_lab
 github_username: jason-c-kwan
