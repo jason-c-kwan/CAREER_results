@@ -1,0 +1,29 @@
+---
+layout: default
+title: Publications
+---
+
+
+### Publications
+
+- Uppal, Siddharth and Metz, Jackie L. and Xavier, René K. and Nepal, Keshav Kumar and Xu, Dongbo and Wang, Guojun and Kwan, Jason C.. (2022). Uncovering Lasonolide A Biosynthesis Using Genome-Resolved Metagenomics. mBio. 13 (5) .
+- Meyer, Fernando and Fritz, Adrian and Deng, Zhi-Luo and Koslicki, David and Lesker, Till Robin and Gurevich, Alexey and Robertson, Gary and Alser, Mohammed and Antipov, Dmitry and Beghini, Francesco and Bertrand, Denis and Brito, Jaqueline J. and Brown, C. Titus and Buchmann, Jan and Buluç, Aydin and Chen, Bo and Chikhi, Rayan and Clausen, Philip T. and Cristian, Alexandru and Dabrowski, Piotr Wojciech and Darling, Aaron E. and Egan, Rob and Eskin, Eleazar and Georganas, Evangelos and Goltsman, Eugene and Gray, Melissa A. and Hansen, Lars Hestbjerg and Hofmeyr, Steven and Huang, Pingqin and Irber, Luiz and Jia, Huijue and Jørgensen, Tue Sparholt and Kieser, Silas D. and Klemetsen, Terje and Kola, Axel and Kolmogorov, Mikhail and Korobeynikov, Anton and Kwan, Jason and LaPierre, Nathan and Lemaitre, Claire and Li, Chenhao and Limasset, Antoine and Malcher-Miranda, Fabio and Mangul, Serghei and Marcelino, Vanessa R. and Marchet, Camille and Marijon, Pierre and Meleshko, Dmitry and Mende, Daniel R. and Milanese, Alessio and Nagarajan, Niranjan and Nissen, Jakob and Nurk, Sergey and Oliker, Leonid and Paoli, Lucas and Peterlongo, Pierre and Piro, Vitor C. and Porter, Jacob S. and Rasmussen, Simon and Rees, Evan R. and Reinert, Knut and Renard, Bernhard and Robertsen, Espen Mikal and Rosen, Gail L. and Ruscheweyh, Hans-Joachim and Sarwal, Varuni and Segata, Nicola and Seiler, Enrico and Shi, Lizhen and Sun, Fengzhu and Sunagawa, Shinichi and Sørensen, Søren Johannes and Thomas, Ashleigh and Tong, Chengxuan and Trajkovski, Mirko and Tremblay, Julien and Uritskiy, Gherman and Vicedomini, Riccardo and Wang, Zhengyang and Wang, Ziye and Wang, Zhong and Warren, Andrew and Willassen, Nils Peder and Yelick, Katherine and You, Ronghui and Zeller, Georg and Zhao, Zhengqiao and Zhu, Shanfeng and Zhu, Jie and Garrido-Oter, Ruben and Gastmeier, Petra and Hacquard, Stephane and Häußler, Susanne and Khaledi, Ariane and Maechler, Friederike and Mesny, Fantin and Radutoiu, Simona and Schulze-Lefert, Paul and Smit, Nathiana and Strowig, Till and Bremges, Andreas and Sczyrba, Alexander and McHardy, Alice Carolyn. (2022). Critical Assessment of Metagenome Interpretation: the second round of challenges. Nature Methods. 19 (4) 429 to 440.
+- Wolf, Kyle A. and Kwan, Jason C. and Kamil, Jeremy P.. (2022). Structural Dynamics and Molecular Evolution of the SARS-CoV-2 Spike Protein. mBio. 13 (2) .
+- Waterworth, Samantha C. and Isemonger, Eric W. and Rees, Evan R. and Dorrington, Rosemary A. and Kwan, Jason C.. (2021). Conserved bacterial genomes from two geographically isolated peritidal stromatolite formations shed light on potential functional guilds. Environmental Microbiology Reports. 13 (2) 126 to 137. 
+- Uppal, S.; Metz, J. L.; Xavier, R. K. M.; Nepal, K.; Xu, D.; Wang, G.; Kwan, J. C. Uncovering lasonolide A biosynthesis using genome-resolved metagenomics. mBio
+- Waterworth, S. C.; Rees, E. R.; Clark, C. M.; Carlson, S.; Miller, I. J.; Puglisi, M.; Kwan, J. C. Elevated expression of srp RiPPs across bacterial phyla in marine sponges. bioRxiv 2023
+
+
+### Other Conference Presentations / Papers
+
+- Waterworth, S.; Kwan, J. C. (2022). A bioinformatics-based Tiny Earth course focused on metagenomics. Tiny Earth Symposium. Madison, WI.
+- Rees, E.; Uppal, S.; Clark, C.; Lail, A.; Waterworth, S.; Chanana, S.; Wolf, K.; Kwan, J. (2022). Autometa 2.0: A versatile tool for recovering genome from highly-complex metagenomic communities. Gordon Research Conference on Marine Natural Products. Ventura, CA
+- Evan Rees, Siddharth Uppal, Dr. Chase Clark, Andrew Lail, Dr. Samantha Waterworth, Shane Roesemann, Kyle Wolf and Prof. Jason Kwan, (2023). Autometa 2: a versatile tool for recovering genomes from highly-complex metagenomic
+communities. 31st Conference on Intelligent Systems For Molecular Biology and the 22nd European Conference on Computational Biology. Lyon, France.
+- Kwan, J. C. (2022). Chemical defenses and potential drug leads made by uncultured bacterial symbionts. Perlman Symposium. Madison, WI.
+- Kwan, J. C. (2021). How Lagria beetles evolved to use antifungals made by bacteria. Portland State University Department of Biology Seminar. Online (Zoom). 
+- Kwan, J. C. (2020). How Lagria beetles evolved to use antifungals made by bacteria.. American Society of Pharmcognosy Webinar Series. Online (Zoom).
+- Metz, J.; Xavier, R.; Wang, G.; Kwan, J.; Uppal, S. (2022). Lasonolide A is synthesized by a trans-AT PKS pathway present in an uncultured Verrucomicrobia. International Society for Computational Biology 30th Conference on Intelligent Systems for Molecular Biology. Madison, WI.
+- Uppal, S.; Metz, J. L.; Miller-Xavier, R. K.; Wang, G.; Wright, A.; Kwan, J. C. (2022). Lasonolide A is synthesized by a trans-AT PKS pathway present in an uncultured Verrucomicrobia. Gordon Research Seminar on Marine Natural Products. Ventura, CA.
+- Uppal, S.; Metz, J. L.; Miller-Xavier, R. K.; Wang, G.; Wright, A.; Kwan, J. C. (2022). Lasonolide A is synthesized by a trans-AT PKS pathway present in an uncultured Verrucomicrobia. Gordon Research Conference on Marine Natural Products. Ventura, CA.
+- Rees, E. R; Lim-Fong, G.; Kwan, J. C. (2020). Resolving the evolutionary paths of bacterial endosymbionts in Bryozoan sibling species. Gordon Research Conference on Marine Natural Products. Ventura, California.
